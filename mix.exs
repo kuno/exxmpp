@@ -21,7 +21,7 @@ defmodule Exxmpp.Mixfile do
 
   defp deps do
     [
-      { :exmpp, github: "scrogson/exmpp" }
+      { :exmpp, github: "jeanparpaillon/exmpp" }
     ]
   end
 end
